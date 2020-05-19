@@ -32,7 +32,8 @@ margin-bottom: 80px;}
 {border-left: solid 3px #AA6617;}
 
 .people
-{border-left: solid 3px blue;}
+{border-left: solid 3px blue;
+clear: left;}
 
 a
 {font-family: "Helvetica Neue",Arial,sans-serif;
